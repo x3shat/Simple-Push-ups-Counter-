@@ -1,0 +1,65 @@
+body{
+    text-align:center;
+    background-color:rgb(202, 220, 182);
+    background: url("pushups.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center ;
+    
+    font-weight: bold;
+}
+
+#main-heading{
+    text-align:center;
+    margin-bottom: 10px;
+    font-size: 50px;
+    text-shadow:0px 0px 2px rgb(0, 0, 0) ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    margin-top: 10px;
+    width:  100%;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: inline;
+}
+
+#count-el{
+    font-size: 100px;
+    margin-top: 10;
+    margin-bottom: 20px;
+}
+#counter-box{
+    margin-top: 10px;
+       font-weight: 900;
+    height: 100%;
+    font-size:40px;
+    width: 100%;
+    
+   
+}
+.btn{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#save-button{
+    background: darkred;
+ 
+}
+
+#add-button{
+    background: darkgreen;
+}
+
+#prev{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration:solid;
+    text-shadow: 1px 2px 4px black;
+
+}
